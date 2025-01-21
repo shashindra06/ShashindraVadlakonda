@@ -8,34 +8,26 @@
 ---
 
 ## 🛠️ Skills & Tools
-- **Languages**: Python, Java, C, JavaScript  
+- **Languages**: Python, Java, C  
 - **Technologies**: Machine Learning, Web Development, MySQL  
 - **Tools**: Git, MongoDB, Visual Studio Code, Jupyter Notebook  
 
 ---
 
 ## 📚 My Projects
-1. **[Smart Diet Planner](#)**  *(In Progress)*
+1. **[Object Detection Using CNN](https://github.com/shashindra06/Object-detection-using-CNN)**
+    Achieved 83% accuracy on CIFAR-10.  
+
+2. **[Smart Diet Planner](#)**  *(In Progress)*
    *Personalized meal recommendations using ML.*  
-   Tech Stack: Python, ML, Flask.  
-
-2. **[SpaceX Falcon 9 Predictor](#)**  
-   *Predicting the success of SpaceX Falcon 9 landings.*  
-   Tech Stack: Python, Data Analysis.  
- 
-
----
-
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShashindraVadlakonda&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashindraVadlakonda&layout=compact&theme=radical)  
+   Tech Stack: Python, ML, Flask.
 
 ---
 
 ## 📫 Connect with Me
-- **Email**: vadlakondashashindra@gmail.com  
-- **LinkedIn**: [Shashindra Vadlakonda](https://www.linkedin.com/in/shashindra-vadlakonda/)  
-- **Fiverr**: [My Fiverr Profile](https://www.fiverr.com/) *(Add link once created)*  
+- **Email**: shashindravadlakonda@gmail.com  
+- **LinkedIn**: [Shashindra Vadlakonda](https://www.linkedin.com/in/shashindra-vadlakonda-a7a367227/)  
+- **Fiverr**: [My Fiverr Profile](https://www.fiverr.com/)  
 
 ---
 
